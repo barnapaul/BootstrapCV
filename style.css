@@ -1,0 +1,6 @@
+.main-picture::after{
+    font-family: FontAwesome;
+    content: "/f063 ";
+    text-align: center;
+    display: block;
+}
